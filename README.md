@@ -60,19 +60,8 @@ git clone https://gitlab.com/your-username/your-repository.git
 jupyter notebook End_to_end_machine_learning_project.ipynb
 ```
 
----
-
-## 👤 Author
-
-**Your Name Here**
-Data Science & Machine Learning Enthusiast
-
-* GitLab: [https://gitlab.com/your-username](https://gitlab.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
-
-## ⚠️ Disclaimer
 
 This project is for educational and portfolio purposes only.
 
