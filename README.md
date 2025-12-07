@@ -94,20 +94,4 @@ The notebook walks through a full end-to-end ML workflow:
 
 ---
 
-## How to Run the Project
-
-1️⃣ Clone the repository:  
-git clone https://gitlab.com/your-username/your-repository.git  
-cd your-repository  
-
-2️⃣ (Optional) Create and activate a virtual environment.  
-
-3️⃣ Install dependencies:  
-pip install -r requirements.txt  
-
-4️⃣ Launch Jupyter and open the notebook:  
-jupyter notebook End_to_end_machine_learning_project.ipynb  
-
----
-
 This project is based on a well-known public tutorial/dataset and has been adapted, documented, and extended for educational, portfolio, and professional demonstration purposes.
