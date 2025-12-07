@@ -4,7 +4,7 @@
 
 This project demonstrates a complete **end-to-end Machine Learning pipeline**, covering the full workflow from data ingestion to model deployment-ready evaluation. The objective is to showcase best practices in **data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and interpretation**.
 
-This repository has been adapted and documented for professional presentation and portfolio use.
+This repository has been adapted and documented for **professional portfolio and job application purposes**.
 
 ---
 
@@ -63,7 +63,7 @@ jupyter notebook End_to_end_machine_learning_project.ipynb
 
 ---
 
-This project is for educational and portfolio purposes only.
+This project is for educational, portfolio, and professional demonstration purposes only.
 
 ---
 
